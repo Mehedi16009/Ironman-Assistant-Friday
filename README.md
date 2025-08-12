@@ -42,18 +42,45 @@ datetime & os – System operations
 ##📥 Installation Code:
 
 1. Clone this repository:
+
+
 git clone https://github.com/yourusername/ironman-friday.git
 cd ironman-friday
 
-2. Install the dependencies:
+
+And the rendered output will be:  
+
+```bash
+git clone https://github.com/yourusername/ironman-friday.git
+cd ironman-friday
+```
+
+
+
+3. Install the dependencies:
 pip install -r requirements.txt
 
-3. Ensure your microphone is enabled and functional.
+4. Ensure your microphone is enabled and functional.
 
-4. Run the assistant:
+5. Run the assistant:
 python friday.py
 
+##⚠️ Security Note
+This project was originally created for learning purposes.
+If you wish to use the email functionality, never hardcode passwords in your code. Instead:
 
+Use environment variables
+
+Or a secure credentials manager
+
+##🎯 Possible Improvements
+Integration with OpenAI API for smarter responses
+
+Adding face recognition for personalized interactions
+
+Voice wake word detection
+
+Cross-platform GUI interface
 
 
 ##📬 Contact Author:
