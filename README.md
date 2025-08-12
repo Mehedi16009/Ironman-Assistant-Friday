@@ -1,4 +1,4 @@
-##🦾 Iron Man Assistant – Friday
+#🦾 Iron Man Assistant – Friday
 
 
 📌 Overview
@@ -12,7 +12,7 @@ A real-time demo of Friday was originally posted on my Facebook account here: [F
 
 
 
-##✨ Features
+#✨ Features
 Voice Recognition – Listens to user commands via microphone input.
 
 Text-to-Speech – Responds in a human-like voice using pyttsx3.
@@ -30,7 +30,7 @@ Email Sending – Sends emails via SMTP.
 Fun Interactions – Responds to casual greetings and questions in a conversational manner.
 
 
-##🛠️ Technologies Used
+#🛠️ Technologies Used
 Python 3.x
 
 [pyttsx3 – Text-to-Speech engine](https://pypi.org/project/pyttsx3/)
@@ -45,7 +45,7 @@ webbrowser – Opening websites
 
 datetime & os – System operations
 
-##📥 Installation Code:
+#📥 Installation Code:
 
 1. Clone this repository:
  
@@ -74,7 +74,9 @@ python friday.py
 
 
 
-##⚠️ Security Note
+#⚠️ Security Note:
+
+
 This project was originally created for learning purposes.
 If you wish to use the email functionality, never hardcode passwords in your code. Instead:
 
@@ -84,7 +86,9 @@ Or a secure credentials manager
 
 
 
-##🎯 Possible Improvements
+#🎯 Possible Improvements
+
+
 Integration with OpenAI API for smarter responses
 
 Adding face recognition for personalized interactions
@@ -94,7 +98,7 @@ Voice wake word detection
 Cross-platform GUI interface
 
 
-##📬 Contact Author:
+#📬 Contact Author:
 
 Md. Mehedi Hasan
 
