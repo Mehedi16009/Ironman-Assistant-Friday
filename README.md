@@ -1,12 +1,18 @@
-#🦾 Iron Man Assistant – Friday
+##🦾 Iron Man Assistant – Friday
+
+
 📌 Overview
 In 2020–2021, during the COVID-19 pandemic when ChatGPT was not yet available in my country, I developed Friday, a Python-based voice-activated virtual assistant inspired by Marvel's Iron Man.
 This project was created during my academic gap years in my B.Sc. degree (2016–2022) as a way to continue learning and building my programming skills despite the global shutdown.
 Although the assistant is built with relatively simple code, it was the result of intensive brainstorming, trial-and-error, and self-learning.
 
+
+
 A real-time demo of Friday was originally posted on my Facebook account here: [Facebook Demo Link](https://www.facebook.com/100007577161371/videos/2526623644266850/)
 
-#✨ Features
+
+
+##✨ Features
 Voice Recognition – Listens to user commands via microphone input.
 
 Text-to-Speech – Responds in a human-like voice using pyttsx3.
@@ -42,13 +48,7 @@ datetime & os – System operations
 ##📥 Installation Code:
 
 1. Clone this repository:
-
-
-git clone https://github.com/yourusername/ironman-friday.git
-cd ironman-friday
-
-
-And the rendered output will be:  
+ 
 
 ```bash
 git clone https://github.com/yourusername/ironman-friday.git
@@ -57,13 +57,22 @@ cd ironman-friday
 
 
 
-3. Install the dependencies:
+2. Install the dependencies:
+
+
+```bash
 pip install -r requirements.txt
+```
+3. Ensure your microphone is enabled and functional.
 
-4. Ensure your microphone is enabled and functional.
+4. Run the assistant:
 
-5. Run the assistant:
+```bash
 python friday.py
+```
+
+
+
 
 ##⚠️ Security Note
 This project was originally created for learning purposes.
@@ -72,6 +81,8 @@ If you wish to use the email functionality, never hardcode passwords in your cod
 Use environment variables
 
 Or a secure credentials manager
+
+
 
 ##🎯 Possible Improvements
 Integration with OpenAI API for smarter responses
