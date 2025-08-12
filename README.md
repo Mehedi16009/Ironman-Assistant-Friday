@@ -51,8 +51,8 @@ datetime & os – System operations
  
 
 ```bash
-git clone https://github.com/yourusername/ironman-friday.git
-cd ironman-friday
+git clone https://github.com/Mehedi16009/Ironman-Assistant-Friday.git
+cd Ironman-Assistant-Friday
 ```
 
 
